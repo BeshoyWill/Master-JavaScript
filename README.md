@@ -1,14 +1,16 @@
 # Master-JavaScript
 
-![DOM_Methods](https://github.com/user-attachments/assets/0cc03ccc-067b-4a00-863e-cf58f580162a)
-![ArrayMethods](https://github.com/user-attachments/assets/85d9c18a-89e9-42c3-9fa8-2f74fcbb4d39)
-![DOM_Events](https://github.com/user-attachments/assets/af6853a5-a966-49bc-9c40-cab5025ca330)
-![GetMethods_SetMethods](https://github.com/user-attachments/assets/d366e21e-77cc-4705-86c0-ef2913071846)
-![MouseEvents](https://github.com/user-attachments/assets/b6a3355d-b1a2-4c53-a89b-8014e6e9d853)
-![Date Methods](https://github.com/user-attachments/assets/eeb5e5c6-152a-433c-b419-3fda34c1c449)
-![Conversions](https://github.com/user-attachments/assets/7a28e5d8-45c7-4dae-a7f4-a13e4db34cb4)
-![Array Methods](https://github.com/user-attachments/assets/41e65d37-4506-4c8d-83db-d39d65725078)
-![SiblingRelations_ModifyingAttribute Elements](https://github.com/user-attachments/assets/776784c7-fae4-4891-b783-6a1c5c755d94)
+
+![1-Array Methods](https://github.com/user-attachments/assets/924c489c-4101-4913-80ef-2f209d01c0fc)
+![2-ArrayMethods](https://github.com/user-attachments/assets/444e0ca6-073f-4d22-b8d4-c876193a0842)
+![3-Date Methods](https://github.com/user-attachments/assets/f1f865bb-6809-46c0-97d3-2190ca895eaf)
+![4-GetMethods_SetMethods](https://github.com/user-attachments/assets/24fd5a23-8809-49ff-8a16-14431337f714)
+![5-DOM_Methods](https://github.com/user-attachments/assets/227848de-3c7c-4cbe-95ad-0a23b294445b)
+![6-DOM_Events](https://github.com/user-attachments/assets/58f1964f-115e-4693-8248-371abf123c22)
+![7-MouseEvents](https://github.com/user-attachments/assets/efc2df5e-07ce-48b7-9c84-1440336d9aa0)
+![8-SiblingRelations_ModifyingAttribute Elements](https://github.com/user-attachments/assets/35e8cb78-62c8-4cd4-ad8c-ec4bbf355584)
+![9-Conversions](https://github.com/user-attachments/assets/7ebe986e-2b1e-4053-987b-a502a0095e03)
+
 
 ## console class
 
